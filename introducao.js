@@ -1,5 +1,5 @@
-function soma(num, num2){
-    let resultado= num + num2
+function soma(a, b){
+    let resultado= a + b
     console.log('Resultado: '+resultado);
 }
 const prompt = require('prompt-sync')()
